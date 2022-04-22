@@ -1,2 +1,1 @@
 # HTML-PAGE-COVID19
-Covid 19 HTML HomeWork
